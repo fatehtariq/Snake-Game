@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (bgi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bgiout.cxx
+  dibutil.cxx
+  drawing.cxx
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\drawing.cxx(819,9): warning C4101: 'tries': unreferenced local variable
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\drawing.cxx(859,10): warning C4101: 'answer': unreferenced local variable
+  file.cxx
+  main.cxx
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\main.cxx(373,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\main.cxx(407,7): warning C4101: 'choice': unreferenced local variable
+  misc.cxx
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(595,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(596,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(597,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(598,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,39): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,46): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,53): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,60): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,67): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,74): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,81): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\misc.cxx(599,88): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  mouse.cxx
+  palette.cxx
+  text.cxx
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\text.cxx(348,19): warning C4018: '<': signed/unsigned mismatch
+  winbgi.cxx
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\winbgi.cxx(134,14): warning C4101: 'actual_color': unreferenced local variable
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\winbgi.cxx(133,9): warning C4101: 'bgi_color': unreferenced local variable
+  winthread.cxx
+D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\winthread.cxx(320,9): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  bgi.vcxproj -> D:\University\2nd Semester Files\Snake Game - Project\1st Deliverable\Snake Game - 1st Deliverable\Snake Game\Debug\Snake Game.exe
